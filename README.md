@@ -1,7 +1,6 @@
 # Nods JS
 The repository is the Node JS workplace and contains projects which I completed while learning JS & Node development.
 
----
 
 ### [LessonLink](https://gitlab.com/hamzasafwan/node-js/-/tree/main/LessonLink?ref_type=heads)
 The project is about the simulation of a real world LMS/CMS i.e learning or campus management systems.
