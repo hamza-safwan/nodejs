@@ -1,6 +1,7 @@
 var mongoose = require('mongoose');
 
 // Class Schema
+// schema
 
 var classSchema = mongoose.Schema({
   title: {
